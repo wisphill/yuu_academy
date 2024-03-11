@@ -1,5 +1,9 @@
-#aws #serverless #dynamodb #dynamo 
+---
+layout: post
+description: AWS Serverless database provided by AWS
+---
 
+#aws #serverless #dynamodb #dynamo 
 ### DynamoDB
 Serverless NoSQL provided by AWS
 - max size of an item: 400kb

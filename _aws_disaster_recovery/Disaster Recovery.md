@@ -1,3 +1,8 @@
+---
+layout: post
+description: Disaster is any event that happens and impacts to the production business or finances, so we have to prepare some DR for it.
+---
+
 #aws #disaster_recovery_migrations
 
 Disaster is any event that happens and impacts to the production business or finances, so we have to prepare some DR for it.

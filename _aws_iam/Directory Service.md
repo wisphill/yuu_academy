@@ -1,3 +1,8 @@
+---
+layout: post
+description: "Microsoft Directory service is a centralized security management to manage some objects like: User Accounts, Computer, Printer"
+---
+
 #aws #iam #AD #directory #directory_service 
 
 Microsoft Directory service is a centralized security management to manage some objects like: User Accounts, Computer, Printer

@@ -1,3 +1,8 @@
+---
+layout: post
+description: All about the S3 notes
+---
+
 #aws #s3 #s3_transfer_acceleration #s3_tier_level #s3_analytic_storage_class #s3_to_s3
 
 ## Specifications

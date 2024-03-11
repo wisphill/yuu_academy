@@ -1,3 +1,8 @@
+---
+layout: post
+description: Aurora is a proprietary technology from AWS for optimization and performance, better than RDS.
+---
+
 #aws #rds #aurora
 
 Aurora is a proprietary technology from AWS for optimization and performance, better than RDS.

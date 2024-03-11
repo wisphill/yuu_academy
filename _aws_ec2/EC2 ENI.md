@@ -1,3 +1,8 @@
+---
+layout: post
+description: ENI is a logical component of VPC definition in the AWS and that presents for a virtual network card.
+---
+
 #aws #ec2 #eni
 
 https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/

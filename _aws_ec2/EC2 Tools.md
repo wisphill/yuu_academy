@@ -1,3 +1,8 @@
+---
+layout: post
+description: Some other AWS EC2 tools
+---
+
 #aws #ec2 #tools 
 
 ### EC2 instance role

@@ -1,3 +1,8 @@
+---
+layout: post
+description: Storage Gateway is for hybrid cloud, a gateway between on-premise server and AWS cloud.
+---
+
 #aws #storage #storage_gateway
 
 Storage Gateway is for hybrid cloud, a gateway between on-premise server and AWS cloud.

@@ -1,3 +1,8 @@
+---
+layout: post
+description: S3 Encryption mechanisms
+---
+
 #aws #s3 #encryption #s3_encrypt
 
 ### SSE-C

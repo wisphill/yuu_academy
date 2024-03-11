@@ -1,3 +1,8 @@
+---
+layout: post
+description: "RDS: Relational database service, manages DB use SQL as language query."
+---
+
 #aws #rds
 
 RDS: Relational database service, manages DB use SQL as language query.

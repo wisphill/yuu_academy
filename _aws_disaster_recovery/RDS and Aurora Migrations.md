@@ -1,3 +1,8 @@
+---
+layout: post
+description: All about RDS and Aurora migration strategy
+---
+
 #aws #disaster_recovery_migrations #rds #aurora #database_encrypt #encryption 
 
 # MySQL

@@ -1,3 +1,8 @@
+---
+layout: post
+description: AWS ElasticCache is to get managed Redis or Memcached
+---
+
 #aws #elasticcache #redis #memcache
 
 AWS ElasticCache is to get managed Redis or Memcached

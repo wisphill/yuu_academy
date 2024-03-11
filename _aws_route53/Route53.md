@@ -1,3 +1,8 @@
+---
+layout: post
+description: Route53 is a highly available, scalable, fully managed and Authoritative DNS, customer can update DNS records, also it is the Domain Registrar.
+---
+
 #aws #route53 
 
 Route53 is a highly available, scalable, fully managed and Authoritative DNS, customer can update DNS records, also it is the Domain Registrar.

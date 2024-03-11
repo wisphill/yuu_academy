@@ -1,3 +1,7 @@
+---
+layout: post
+description: Snow Family is highly secure, portable devices to collect and process data at the edge and migrate data in or out of AWS
+---
 #aws #storage #snow_family #snow
 
 Snow Family is highly secure, portable devices to collect and process data at the edge and migrate data in or out of AWS

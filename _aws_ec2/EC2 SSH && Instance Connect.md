@@ -1,3 +1,8 @@
+---
+layout: post
+description: How to SSH or connect to the EC2 instances for debugging
+---
+
 #aws #ec2 
 
 SSH is command line tool utility that allows to access to remote server

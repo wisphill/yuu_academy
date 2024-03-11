@@ -1,3 +1,8 @@
+---
+layout: post
+description: Hibernate mechanism on the AWS EC2
+---
+
 #aws #ec2 #hibernate
 
 ![[Drawing 2023-02-05 16.14.43.excalidraw |600 x400]]

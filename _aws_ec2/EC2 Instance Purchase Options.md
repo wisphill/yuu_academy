@@ -1,3 +1,8 @@
+---
+layout: post
+description: All purchase options for the EC2 Instances
+---
+
 #aws #ec2 #purchase #options #renting
 
 ### On demand

@@ -1,3 +1,8 @@
+---
+layout: post
+description: How to execute command on the ECS
+---
+
 #devops #aws #ecs #tip
 
 You need to provide a "Task role" for a Task Definition (this is different than the "Task execution role"). This can be done by first going to IAM

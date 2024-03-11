@@ -1,3 +1,8 @@
+---
+layout: post
+description: AWS Identity Center is AWS Solution for single sign on solution. One login for multiple AWS accounts, business cloud apps, SAML2.0-enabled applications, EC2 Window instances.
+---
+
 #aws #iam #identity_center
 
 AWS Identity Center is AWS Solution for single sign on solution. One login for multiple AWS accounts, business cloud apps, SAML2.0-enabled applications, EC2 Window instances.

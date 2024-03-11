@@ -1,3 +1,8 @@
+---
+layout: post
+description: Strategy for DMS with on-premise instances and servers
+---
+
 #aws #disaster_recovery_migrations #strategy_aws #on_premise
 
 ### AWS Database Migration Service

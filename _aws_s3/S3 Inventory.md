@@ -1,3 +1,8 @@
+---
+layout: post
+description: All about the S3 inventory
+---
+
 #s3 #aws #inventory
 
 ### Use cases

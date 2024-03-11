@@ -1,3 +1,8 @@
+---
+layout: post
+description: DataSync is the service for move large data from on-premise/another cloud/AWS to AWS (S3, EFS, FSx)
+---
+
 #aws #storage #datasync
 
 It is the service for move large data from on-premise/another cloud/AWS to AWS (S3, EFS, FSx)

@@ -1,3 +1,8 @@
+---
+layout: post
+description: SQS is AMZ queue, the alternative feature likes RabbitMQ or Kafka. The middleware with a broker.
+---
+
 #aws #sqs
 
 SQS is AMZ queue, the alternative feature likes RabbitMQ or Kafka. The middleware with a broker.

@@ -1,3 +1,8 @@
+---
+layout: post
+description: Application discovery service is service to plan migration projects by gathering information about on-premise data center.
+---
+
 #aws #disaster_recovery_migrations #application_discovery_service #discovery_service #aws_migration_hub
 
 Application discovery service is service to plan migration projects by gathering information about on-premise data center.

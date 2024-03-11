@@ -1,3 +1,8 @@
+---
+layout: post
+description: CF is content delivery network (CDN) that is managed by AWS
+---
+
 #aws #cloudfront 
 
 CF is content delivery network (CDN)

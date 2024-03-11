@@ -1,3 +1,7 @@
+---
+layout: post
+description: AWS Firewall Manager is a security management service that allows to centralize the firewall into one place and enforce other accounts to follow.
+---
 #aws #guard #firewall #aws_shield_advanced #shield
 
 It is security management service that allows to centralize the firewall into one place and enforce other accounts to follow.

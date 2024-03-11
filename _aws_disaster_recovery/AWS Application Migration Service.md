@@ -1,3 +1,8 @@
+---
+layout: post
+description: How to use AWS AMS to migrate to the EC2, and replicate them on AWS environment
+---
+
 #aws #disaster_recovery_migrations #application_migration_service #replication_agent
 
 ### Use case and specifications

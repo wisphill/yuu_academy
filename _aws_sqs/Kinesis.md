@@ -1,3 +1,8 @@
+---
+layout: post
+description: Kinesis data stream for real-time streaming for ingest. Kinesis firehose is for loading stream to the storage
+---
+
 #aws #kinesis #data_stream #firehose #sqs 
 
 Kinesis data stream for real-time streaming for ingest

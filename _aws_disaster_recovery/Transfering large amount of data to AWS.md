@@ -1,3 +1,8 @@
+---
+layout: post
+description: All high level solutions for large data transfering to AWS
+---
+
 #aws #disaster_recovery_migrations #tranfer_large_data
 
 ### Solutions (4)

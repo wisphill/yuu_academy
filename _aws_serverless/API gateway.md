@@ -1,6 +1,9 @@
+---
+layout: post
+description: API Gateway is one of server less service that is provided by AWS
+---
+
 #aws #serverless #aws-api-gateway #api-gateway #stateful #stateless #full-duplex
-
-
 ### Api Gateway High Level
 It's AWS service to proxy request to AWS downstream services like EC2, Lambda.
 

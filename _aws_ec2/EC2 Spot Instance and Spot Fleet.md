@@ -1,3 +1,8 @@
+---
+layout: post
+description: EC2 Spot instance and its mechanism
+---
+
 #aws #ec2 #spot #fleet #spot_fleet #spot_instance
 
 ### Spot Instance

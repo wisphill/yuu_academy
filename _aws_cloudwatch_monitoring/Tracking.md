@@ -1,3 +1,8 @@
+---
+layout: post
+description: There are 4 basic types of tracking for monitoring and bases on that, the AWS/ASG can use those configurations for scaling.
+---
+
 #aws #monitoring #tracking #simple_tracking #target_tracking #step_tracking #schedule_tracking #asg
 
 ### 4 Type of tracking

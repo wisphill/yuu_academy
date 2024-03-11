@@ -1,3 +1,8 @@
+---
+layout: post
+description: RabbitMQ on the AWS
+---
+
 #aws #rmq #mq 
 
 Amazon MQ is the managed message broker service for (RabbitMQ and ActiveMQ) to support for protocols: MQTT, AMQP, STOMP, Openwire, WSS.

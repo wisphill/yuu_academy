@@ -1,3 +1,8 @@
+---
+layout: post
+description: Allow to run assessment for assessment target according to assessment template to find the network connectivity issues and vulnerabilities
+---
+
 #aws #ec2 #inspector #aws_inspector 
 
 Allow to run assessment for assessment target according to assessment template to find the network connectivity issues and vulnerabilities. 

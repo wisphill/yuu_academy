@@ -1,3 +1,8 @@
+---
+layout: post
+description: AMI is named for Amazon machine image
+---
+
 #ec2 #ami #aws 
 
 AMI is named for Amazon machine image

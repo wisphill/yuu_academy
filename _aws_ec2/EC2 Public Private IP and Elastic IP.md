@@ -1,3 +1,8 @@
+---
+layout: post
+description: IP for the EC2 instances
+---
+
 #ec2 #elastic_ip #aws
 ### Some specifications:
 1. Elastic IP is fixed public IP and won't be changed after the instance is restarted or terminated.

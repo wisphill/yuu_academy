@@ -1,3 +1,8 @@
+---
+layout: post
+description: AWS GuardDuty is the security monitoring service for some foundation resources
+---
+
 #aws #guard #guard_duty
 
 AWS GuardDuty is the security monitoring service for some foundation resources

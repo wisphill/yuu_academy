@@ -1,3 +1,8 @@
+---
+layout: post
+description: VMWare Cloud on-premise to AWS
+---
+
 #aws #disaster_recovery_migrations #vmware_cloud
 
 VMWare Cloud on AWS is a solution for customer who uses VMWare cloud to manages on-premise data center and want to extend to AWS

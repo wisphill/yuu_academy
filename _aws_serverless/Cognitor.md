@@ -1,5 +1,9 @@
-#aws #serverless #cognito
+---
+layout: post
+description: AWS Cognitor is the AWS Service to give user identity with the web or mobile application.
+---
 
+#aws #serverless #cognito
 ### Cognito
 It the AWS Service to give user identity with the web or mobile application.
 

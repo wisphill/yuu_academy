@@ -1,6 +1,11 @@
+---
+layout: post
+description: DMS is the service allows database migration from on-premise to AWS cloud, quickly, resilient, self-healing.
+---
+
 #aws #disaster_recovery_migrations #dms #database_migration
 
-This is service allows database migration from on-premise to AWS cloud, quickly, resilient, self-healing.
+This is a service allows database migration from on-premise to AWS cloud, quickly, resilient, self-healing.
 
 ### Features
 - Homogeneous migration (same type of database), Heterogeneous migration (all database)

@@ -1,3 +1,8 @@
+---
+layout: post
+description: All basic and important information about the IAM and its features
+---
+
 #aws #iam 
 
 IAM is global service for identity and access management

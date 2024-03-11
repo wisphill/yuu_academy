@@ -1,3 +1,8 @@
+---
+layout: post
+description: FSx is managed 3rd high performance file systems on AWS
+---
+
 #aws #storage #fsx
 
 This is managed 3rd high performance file systems on AWS

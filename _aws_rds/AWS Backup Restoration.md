@@ -1,5 +1,9 @@
-#rds #backup 
+---
+layout: post
+description: Steps for AWS Restoration
+---
 
+#rds #backup 
 
 1. Backup
 2. Take a snapshot with a specific name and delete the current database (instance/cluster)

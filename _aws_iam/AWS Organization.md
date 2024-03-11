@@ -1,3 +1,8 @@
+---
+layout: post
+description: AWS Organization is an organization that can include lots of AWS accounts and it has some benefits
+---
+
 #aws #iam #organization
 
 AWS Organization is an organization that can include lots of AWS accounts and it has some benefits

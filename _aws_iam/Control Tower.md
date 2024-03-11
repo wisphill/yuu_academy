@@ -1,3 +1,8 @@
+---
+layout: post
+description: Control Tower is an easy way to setup and govern a secure and compliant multiple AWS account based on best practises.
+---
+
 #aws #iam #control_tower #guardrail #detective #preventive
 
 It is an easy way to setup and govern a secure and compliant multiple AWS account based on best practises.

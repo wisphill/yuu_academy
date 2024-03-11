@@ -1,3 +1,8 @@
+---
+layout: post
+description: AWS SNS is the service for pub/sub, fire and forget pattern, one producer and many subscriber, similar to (Redis)
+---
+
 #aws #sns #sqs #fanout #fifo
 
 AWS SNS is the service for pub/sub, fire and forget pattern, one producer and many subscriber, similar to (Redis)

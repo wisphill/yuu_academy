@@ -1,3 +1,8 @@
+---
+layout: post
+description: AWS provides managed lots of types Database, like MongoDB, Cassandra
+---
+
 #aws #database
 
 ### Types

@@ -1,3 +1,8 @@
+---
+layout: post
+description: IAM Advanced Policies
+---
+
 #aws #iam #advanced_policies
 
 ## IAM Condition (Advanced) 

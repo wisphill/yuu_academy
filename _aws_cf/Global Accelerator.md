@@ -1,3 +1,8 @@
+---
+layout: post
+description: The traffic comes from client to the server, it can go though many hops on the internet. So we can use Global Accerelator to proxy traffic on the edge location, then GA will communicate with our service via stable AWS private network. So the latency will be decreased.
+---
+
 #aws #accelerator
 
 The traffic comes from client to the server, it can go though many hops on the internet.
