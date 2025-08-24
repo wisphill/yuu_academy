@@ -40,7 +40,7 @@ Hosted zone is a container of records, that defines how to route traffic to a do
 
 ### Routing Policy
 - Simple: No health check, simple routing to the resource.
-- Geoproximity: Shift traffic from one region to another region by increasing bias. The traffic at the place with higher bias will attrack the traffic.
+- Geoproximity: Shift traffic from one region to another region by increasing bias. The traffic at the place with higher bias will attrach the traffic.
 - Multi values: Routing traffic to multi resources and it can integrate with health check. So it is powerful than simple routing with multi values
 - Failover: Routing to primary/secondary resources, and it will prepare for failover.
 - Geolocation: Routing based on user country/location.
